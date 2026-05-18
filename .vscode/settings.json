@@ -38,5 +38,7 @@
       ".github/workflows/*.yml",
       ".github/workflows/*.yaml"
     ]
-  }
+  },
+  "python.defaultInterpreterPath": "c:\\Repos\\datafun-01-foundations\\.venv\\Scripts\\python.exe",
+  "python-envs.defaultEnvManager": "ms-python.python:system"
 }
